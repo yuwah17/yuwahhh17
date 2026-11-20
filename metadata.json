@@ -1,0 +1,6 @@
+{
+  "name": "SandiChat",
+  "description": "Aplikasi komunikasi pesan teks dan suara terenkripsi end-to-end (AES-256-GCM & ECDH) dengan integrasi Google Chat.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
